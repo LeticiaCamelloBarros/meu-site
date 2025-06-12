@@ -1,4 +1,4 @@
-# Erick pelo amor de deus , esse não é o repositório do meu site . Abre o meu repossitorio curriculo fixado no meu perfil por favor 
+# Erick pelo amor de deus , esse não é o repositório do meu site . Abre o meu repossitorio de nome " curriculo  " fixado no meu perfil por favor 
 
 # Explicação :
 > entendi que não era só para o repositório tá público mas o site também , criei um repositório então para publicar no github pages , que é esse daqui , e mandei para tu o nome dele antes que fosse muito tarde
